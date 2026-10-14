@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Route, Routes } from "react-router-dom";
 import initialEquipment from "./data/equipment.json";
-import Navbar from "./components/Navbar.jsx";
+import Navbar from "./component/Navbar.jsx";
 import Home from "./pages/Home.jsx";
 import EquipmentList from "./pages/EquipmentList.jsx";
 import EquipmentDetails from "./pages/EquipmentDetails.jsx";

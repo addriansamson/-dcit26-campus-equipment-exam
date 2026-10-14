@@ -1,4 +1,4 @@
-import EquipmentCard from "../components/EquipmentCard.jsx";
+import EquipmentCard from "../component/EquipmentCard.jsx";
 export default function EquipmentList({ equipment }) {
 return (
 <section>
